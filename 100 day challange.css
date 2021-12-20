@@ -1,0 +1,40 @@
+h1 {
+  font-family: sans-serif;
+
+  color: grey;
+}
+
+p {
+  font-family: sans-serif;
+
+  color: grey;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+h2 {
+  font-family: "roboto" sans-serif;
+
+  color: grey;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+#special-id {
+  color: red;
+  font-size: 52px;
+  font-style: bold;
+}
+img {
+  border: 200;
+  height: 200;
+  border-radius: 100px;
+}
+body {
+  text-align: center;
+  background-color: brown;
+  margin: 50px;
+}
