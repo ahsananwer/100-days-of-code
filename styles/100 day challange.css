@@ -1,12 +1,12 @@
 h1 {
   font-family: sans-serif;
-
+  font-size: 80px;
   color: grey;
 }
 
 p {
   font-family: sans-serif;
-
+  font-size: 30px;
   color: grey;
 }
 
@@ -16,22 +16,21 @@ a {
 }
 h2 {
   font-family: "roboto" sans-serif;
-
+  font-size: 50px;
   color: grey;
 }
-
 a:hover {
   text-decoration: underline;
 }
 #special-id {
   color: red;
-  font-size: 52px;
+  font-size: 100px;
   font-style: bold;
 }
 img {
   border: 200;
   height: 200;
-  border-radius: 100px;
+  border-radius: 50px;
 }
 body {
   text-align: center;

@@ -1,0 +1,18 @@
+a:hover {
+  text-decoration: underline;
+}
+#special-id {
+  color: red;
+  font-size: 100px;
+  font-style: bold;
+}
+img {
+  border: 200;
+  height: 200;
+  border-radius: 50px;
+}
+body {
+  text-align: center;
+  background-color: brown;
+  margin: 50px;
+}
