@@ -18,6 +18,8 @@ h2 {
   font-family: "roboto" sans-serif;
   font-size: 50px;
   color: grey;
+  background-color: red;
+  border-radius: 40px;
 }
 a:hover {
   text-decoration: underline;
@@ -36,4 +38,16 @@ body {
   text-align: center;
   background-color: brown;
   margin: 50px;
+}
+ol {
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  color: blue;
+}
+ul {
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  color: blue;
 }
